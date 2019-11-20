@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Test for Delete</string>
+    <string name="app_name">Grocery With db</string>
     <string name="action_settings">Settings</string>
     <string name="add_item">Add first item</string>
     <string name="Add_string">Enter Grocery item</string>
